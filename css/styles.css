@@ -1501,7 +1501,16 @@ textarea.input {
   .skilss-title {
     font-size: var(--normal-font-size);
   }
+  #nav-english h2 {
+    margin-left: 70px !important;
+  }
   
+}
+
+@media screen and (max-width: 370px) {
+  #nav-english h2 {
+    margin-left: 50px !important;
+  }
 }
 
 @media screen and (max-width: 566px) {
@@ -1590,7 +1599,7 @@ textarea.input {
   }
 
   .team-content .pipe {
-    margin-left: -95px;
+    margin-left: -70px;
   }
   .team-content .ander {
     margin-left: -12px;
@@ -1603,7 +1612,11 @@ textarea.input {
   }
 
   .team-content .web {
-    margin-left: -140px;
+    margin-left: -135px;
+  }
+
+  #nav-english h2 {
+    margin-left: 28px;
   }
 }  
 
