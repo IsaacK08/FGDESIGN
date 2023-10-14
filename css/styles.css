@@ -1607,12 +1607,24 @@ textarea.input {
   .team-content .isaac {
     margin-left: -63px;
   }
+
   .team-content h3 {
     margin-left: -115px;
   }
 
   .team-content .web {
     margin-left: -135px;
+  }
+
+  .team-content .pipe1 {
+    margin-left: -72.5px;
+  }
+  .team-content .ander1 {
+    margin-left: -11px;
+  }
+
+  .team-content .isaac1 {
+    margin-left: -64px;
   }
 
   #nav-english h2 {
