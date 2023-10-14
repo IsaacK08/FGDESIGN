@@ -1,3 +1,3 @@
-# Responsive Portfolio Website Isaac
-Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.
+# Responsive Portfolio Website FG DESIGN
+Responsive Portfolio Website Using Html, CSS and JavaScript, With a beautiful user interface. It contains a Header, Home, About Us, Portfolio, Contact and Footer.
 
